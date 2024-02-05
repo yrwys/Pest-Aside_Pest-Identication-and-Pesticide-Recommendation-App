@@ -1,0 +1,6 @@
+Insect
+Rodent
+Spider
+Bird
+Snail
+Not Pest

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pest Aside</string>
+    <string name="buttonSelectPhoto">Upload Image</string>
+    <string name="buttonTakePhoto">Capture Image</string>
+    <string name="buttonDiagnose">Classify</string>
+    <string name="buttonRecommend">Recommended Pesticides</string>
+    <string name="buttonError">OK</string>
+    <string name="defaultImage"></string>
+    <string name="descriptionImage">""</string>
+</resources>
